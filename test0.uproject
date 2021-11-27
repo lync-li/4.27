@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{49E4B1D1-4CB6-B25E-31AB-3E88CEBC86FB}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		}
+	]
+}
